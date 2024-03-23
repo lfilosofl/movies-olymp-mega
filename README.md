@@ -1,4 +1,5 @@
 # How to start app
+GIT repo: https://github.com/lfilosofl/movies-olymp-mega
 ```
 ./gradlew bootRun
 ```
